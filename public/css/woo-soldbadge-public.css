@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .ced_soldout {
+    padding: 5px 20px;
+    text-align: center;
+    background: #a72c2c;
+    color: #ffffff;
+    font-weight: bold;
+    position: absolute;
+    border-radius: 13px;
+    top: 6px;
+    right: 6px;
+    z-index: 9;
+    font-size: 14px;
+}
